@@ -1,0 +1,8 @@
+curl http://localhost:5000/books/isbn/1
+
+Output:
+{
+  "title": "Book 1",
+  "author": "Author 1",
+  "reviews": {}
+}
