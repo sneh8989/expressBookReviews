@@ -1,0 +1,15 @@
+curl http://localhost:5000/books
+
+Output:
+{
+  "1": {"title": "Book 1","author": "Author 1","reviews": {}},
+  "2": {"title": "Book 2","author": "Author 2","reviews": {}},
+  "3": {"title": "Book 3","author": "Author 3","reviews": {}},
+  "4": {"title": "Book 4","author": "Author 4","reviews": {}},
+  "5": {"title": "Book 5","author": "Author 5","reviews": {}},
+  "6": {"title": "Book 6","author": "Author 6","reviews": {}},
+  "7": {"title": "Book 7","author": "Author 7","reviews": {}},
+  "8": {"title": "Book 8","author": "Author 8","reviews": {}},
+  "9": {"title": "Book 9","author": "Author 9","reviews": {}},
+  "10": {"title": "Book 10","author": "Author 10","reviews": {}}
+}
