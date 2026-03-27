@@ -1,0 +1,10 @@
+curl http://localhost:5000/books/title/Book%201
+
+Output:
+[
+  {
+    "title": "Book 1",
+    "author": "Author 1",
+    "reviews": {}
+  }
+]
